@@ -1,4 +1,4 @@
-hidden thing {
+.hidden-thing {
   position: aboslute;
   visibility: hidden;
   pointer-events: none;
